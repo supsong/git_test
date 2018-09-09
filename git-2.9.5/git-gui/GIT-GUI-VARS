@@ -1,0 +1,1 @@
+SHELL_PATH='/bin/sh' TCL_PATH='tclsh' TCLTK_PATH='wish' gitexecdir='/usr/local/git/libexec/git-core' gg_libdir='/usr/local/git/share/git-gui/lib' GITGUI_MACOSXAPP= 
